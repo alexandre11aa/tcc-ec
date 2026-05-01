@@ -6,6 +6,7 @@
 ***Ano:** 2023*  
 ***Local:** Patos – PB*  
 ***Tipo:** Trabalho de Conclusão de Curso*
+***Título:** Bacharel*  
 
 ## 📚 Referência
 
