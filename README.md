@@ -5,7 +5,7 @@
 ***Curso:** Engenharia Civil*  
 ***Ano:** 2023*  
 ***Local:** Patos – PB*  
-***Tipo:** Trabalho de Conclusão de Curso*
+***Tipo:** Trabalho de Conclusão de Curso*  
 ***Título:** Bacharel*  
 
 ## 📚 Referência
